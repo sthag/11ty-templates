@@ -1,0 +1,26 @@
+{
+	"name": "11ty-templates",
+	"version": "1.0.0",
+	"description": "11ty templates to include",
+	"keywords": [
+		"11ty",
+		"template",
+		"static",
+		"page"
+	],
+	"homepage": "https://github.com/sthag/11ty-templates",
+	"author": "sthag",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sthag/11ty-templates.git"
+	},
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"private": true,
+	"peerDependencies": {
+		"@11ty/eleventy": "^3.1.2"
+	}
+}
